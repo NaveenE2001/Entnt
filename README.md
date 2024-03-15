@@ -7,9 +7,14 @@
 2 .npm start  //to start the server.
 
 # click here to VIEW PRODUCTS button to view all Products (Card View) product page .
+    -> Click Home to move to dashboard page.
 
 # click here to VIEW ORDERS button to view all orders (Table  View).
-
-# click Home button to came back to the Dash board page.
-
+    -> Click Home to move to dashboard page.
+    
 # click calender view  button to view the recent order.
+    -> Click Home button to move to dashboard page.
+    -> Click marked date to view that day view that day orders.
+    
+
+
